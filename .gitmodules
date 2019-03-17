@@ -1,0 +1,3 @@
+[submodule "lib/usagi.kicad"]
+	path = lib/usagi.kicad
+	url = https://github.com/usagi/usagi.kicad.git

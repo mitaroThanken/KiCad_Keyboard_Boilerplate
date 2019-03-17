@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name conn)(type KiCad)(uri ${KIPRJMOD}/lib/usagi.kicad/conn)(options "")(descr ""))
+  (lib (name microcontroller)(type KiCad)(uri ${KIPRJMOD}/lib/usagi.kicad/microcontroller)(options "")(descr ""))
+  (lib (name switch)(type KiCad)(uri ${KIPRJMOD}/lib/usagi.kicad/switch)(options "")(descr ""))
+)
